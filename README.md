@@ -1,4 +1,4 @@
-# 👨‍💻 Fernando Souza Breviglieri
+# Fernando Souza Breviglieri
 
 **`Desenvolvedor FullStack`**
 
